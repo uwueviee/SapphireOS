@@ -1,2 +1,2 @@
 # SapphireOS
-SapphireOS - A new generation!
+SapphireOS - A shiny UNIX*
